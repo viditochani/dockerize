@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/hpcloud/tail"
+	"github.com/nxadm/tail"
 	"golang.org/x/net/context"
 )
 
